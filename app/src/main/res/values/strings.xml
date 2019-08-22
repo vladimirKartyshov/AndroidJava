@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AppForHour</string>
+    <string name="AndroidJava">AndroidJava</string>
     <string name="english_text_view">TextView</string>
     <string name="russian_text_view">TextView</string>
     <string name="enter_word">Введите слово</string>
